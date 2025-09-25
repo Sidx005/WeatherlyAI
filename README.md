@@ -43,4 +43,8 @@ npm install
 ```bash
 npm run dev
 ```
-[Watch Demo Video](Demo.mp4)
+
+
+
+https://github.com/user-attachments/assets/f3d26d96-0cf8-48e4-98d5-eaf1dd224fe3
+

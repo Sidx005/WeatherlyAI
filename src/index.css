@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    overflow-x: hidden;
+}
+.chatContainer{
+    scrollbar-width:300px;
+    scrollbar-color: #5c5c5c transparent;
+}

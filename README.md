@@ -33,3 +33,13 @@ Weatherly is a responsive web chat application that allows users to interact wit
 ```bash
 git clone https://github.com/your-username/WeatherlyAI.git
 cd WeatherlyAI
+```
+
+2. Install Dependencies:
+```bash
+npm install
+```
+3. Run Command
+```bash
+npm run dev
+```
